@@ -1,6 +1,6 @@
-def get_words(my_file=u"C:\\Users\\Canan\\input_hw_2.csv"):
+def get_words():
     my_list=[]
-    f=open(my_file, 'r+')
+    f=open('input_hw_2.csv', 'r+')
     contents= f.readlines()
     #print(contents)
     for line in contents:
