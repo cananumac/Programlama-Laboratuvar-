@@ -1,0 +1,9 @@
+Python 3.7.6 (default, Jan  8 2020, 20:23:39) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:/Users/Canan Elif/Desktop/190401076_hw_2.py ============
+[['06', 44], ['07', 39], ['08', 45], ['09', 48], ['10', 40], ['11', 45], ['12', 47]]
+[39, 40, 44, 45, 45, 47, 48]
+Medyan:  45
+Ortalama:  44.0
+>>> 
