@@ -1,6 +1,6 @@
 def get_words():
     my_list=[]
-    f=open('input_hw_2.csv', 'r+')
+    f=open('input_hw_2.csv','r+')
     contents= f.readlines()
     #print(contents)
     for line in contents:
@@ -35,7 +35,7 @@ def my_frequency_with_list_tuples(list_1):
 my_list=get_words()
 my_list_2=my_frequency_with_list_tuples(my_list)
 my_bubble_sort(my_list_2)
-
+print(my_list_2)
 def get_numbers():
     my_list=[]
     n=len(my_list_2)
